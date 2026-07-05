@@ -1,0 +1,3 @@
+# Media Query
+
+A **media query** is a CSS feature used to make a website **responsive** by applying different styles based on the **screen size, device type, or resolution**. It helps webpages adapt to **desktops, laptops, tablets, and mobile phones** without changing the HTML structure. By using conditions such as **`max-width`** or **`min-width`**, developers can modify properties like **layout, font size, spacing, and element width** to provide a better user experience on different devices. Media queries are an essential part of **responsive web design**, ensuring that websites look attractive and function properly across all screen sizes.
